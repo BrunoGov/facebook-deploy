@@ -1,4 +1,4 @@
-# facebook-deploy
+# Recriando a tela de login do Facebook
 Tela inicial do Facebook construído com React JS.
 
 No diretório do projeto, você deve executar:
